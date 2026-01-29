@@ -1,7 +1,6 @@
-markdown
-# 👋 Hello, I'm Caleb Fox | FoxAutomation
+#  Hello, I'm Caleb Fox | FoxAutomation
 
-### AI-Powered Business Process Architect 🚀
+### AI-Powered Business Process Architect 
 
 I build high-performance Python automation systems that save businesses 10-20+ hours per week. I specialize in connecting the tools you already use (Gmail, Sheets, TikTok, CRMs) into seamless, reliable workflows.
 
