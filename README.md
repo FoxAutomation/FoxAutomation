@@ -1,16 +1,31 @@
-## Hi there 👋
+markdown
+# 👋 Hello, I'm Caleb Fox | FoxAutomation
 
-<!--
-**FoxAutomation/FoxAutomation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI-Powered Business Process Architect 🚀
 
-Here are some ideas to get you started:
+I build high-performance Python automation systems that save businesses 10-20+ hours per week. I specialize in connecting the tools you already use (Gmail, Sheets, TikTok, CRMs) into seamless, reliable workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Tech Stack
+- **Languages:** Python (Core Expertise), Bash, JavaScript
+- **Platforms:** n8n, Zapier, Make.com
+- **APIs:** Google Workspace (Sheets, Gmail, Drive), TikTok Marketing, CRM Integrations
+- **Web:** Selenium, Playwright, BeautifulSoup
+
+---
+
+## 📂 Featured Work
+*   **LeadFlow-Automator (Private):** Enterprise-grade lead nurturing pipeline with intelligent aging logic.
+*   **Precisely-Invoice (Private):** Specialized PDF engine for high-precision contract compliance.
+*   **SmartExpense-Classifier (Private):** Pattern-matching financial engine for automated job-costing.
+
+---
+
+## 📈 Recent Technical Demos (Public)
+Check out my [Automation-Toolbox](https://github.com/FoxAutomation/Automation-Toolbox) for examples of clean, production-ready Python scripts.
+
+---
+
+## 💬 Contact Me
+Ready to automate your bottlenecks? **Reach out on [Upwork](https://www.upwork.com/freelancers/~YOUR_ID_HERE)** or open an issue here!
